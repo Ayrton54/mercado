@@ -1,0 +1,20 @@
+.formGroup {
+    margin-bottom: 15px;
+}
+
+.formLabel {
+    color: blueviolet;
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.formInput {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: lightgray;
+    color: black;
+}

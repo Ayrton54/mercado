@@ -1,0 +1,18 @@
+.paragrafo{
+    background-color: #ffc0cb;
+    color: #000;
+    font-size: 20px;
+   align-items: center;
+   text-align: center;
+   height: 200px;
+   padding: 80px;
+}
+
+.container{
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
